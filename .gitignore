@@ -1,0 +1,13 @@
+# 특정 파일 무시
+join.php
+verify-id-token.php
+
+# 특정 디렉토리 무시
+template/
+
+# 특정 확장자를 가진 모든 파일 무시
+#*.log
+
+
+# 예외 처리: 이미 무시된 디렉토리 내 특정 파일 추적
+#!logs/important.log
