@@ -1,6 +1,9 @@
 # 특정 파일 무시
 join.php
 verify-id-token.php
+test.php
+verify.php
+
 
 # 특정 디렉토리 무시
 template/

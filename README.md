@@ -7,4 +7,8 @@
 - **PHP**: 8.3.7
 - **MySQL**: 8.0
 - **Composer**: 2.7.6
+- **HTTPS** : JMT 토큰 사용
 
+## composer
+"kreait/firebase-php": "^7.11"
+"firebase/php-jwt": "^6.10"

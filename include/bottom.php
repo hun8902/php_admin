@@ -9,9 +9,16 @@
 <script src="./assets/vendor/libs/i18n/i18n.js"></script>
 <script src="./assets/vendor/libs/typeahead-js/typeahead.js"></script>
 <script src="./assets/vendor/js/menu.js"></script>
+
 <!-- Vendors JS -->
+<script src="./assets/vendor/libs/%40form-validation/popular.js"></script>
+<script src="./assets/vendor/libs/%40form-validation/bootstrap5.js"></script>
+<script src="./assets/vendor/libs/%40form-validation/auto-focus.js"></script>
 <script src="./assets/vendor/libs/apex-charts/apexcharts.js"></script>
 <!-- Main JS -->
 <script src="./assets/js/main.js"></script>
 <!-- Page JS -->
 <script src="./assets/js/dashboards-analytics.js"></script>
+
+
+
